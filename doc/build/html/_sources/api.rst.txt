@@ -1,0 +1,19 @@
+.. _api:
+
+.. currentmodule:: myfirstpackage
+
+API reference
+=============
+
+Click any module for detailed descriptions of available functions, usage, etc.
+
+.. _test_func:
+
+A test function
+--------------------
+
+.. autosummary::
+    :toctree: generated
+    :template: autosummary_module.rst
+
+    test_module

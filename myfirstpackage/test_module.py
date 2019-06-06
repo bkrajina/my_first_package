@@ -1,0 +1,10 @@
+def test_func(x1, x2, x3):
+    """ This is a test function for python doc strings
+
+    Parameters
+    ----------
+    x1: float
+        a dummy parameter
+    x2: takes *x_1* not
+"""
+    
