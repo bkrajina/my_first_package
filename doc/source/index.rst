@@ -6,9 +6,11 @@
 Welcome to MyFirstPackage's documentation!
 ==========================================
 This is a test documentation
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
+	     
    API documentation <api>
 
 
